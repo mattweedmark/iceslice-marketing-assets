@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071b35"/><stop offset=".55" stop-color="#102d4c"/><stop offset="1" stop-color="#061426"/></linearGradient><linearGradient id="ice" x2="1" y2="0"><stop stop-color="#1ed5d4"/><stop offset="1" stop-color="#7ce5ff"/></linearGradient><pattern id="grid" width="76" height="76" patternUnits="userSpaceOnUse"><path d="M76 0H0V76" fill="none" stroke="#6fb2c9" stroke-opacity=".08" stroke-width="2"/></pattern></defs>
+<rect width="1080" height="1350" fill="url(#bg)"/><rect width="1080" height="1350" fill="url(#grid)"/>
+<path d="M0 260L1080 0V190L0 450Z" fill="#20c8d1" opacity=".08"/><path d="M0 1080L1080 790V990L0 1290Z" fill="#20c8d1" opacity=".07"/>
+<g transform="translate(70 72)"><rect width="170" height="48" rx="24" fill="#0d5266"/><text x="85" y="33" text-anchor="middle" font-family="DejaVu Sans" font-size="21" font-weight="bold" fill="#adfaff">ICE SLICE</text><text x="940" y="31" text-anchor="end" font-family="DejaVu Sans" font-size="21" fill="#9cc5d3">SCHEDULING SMARTER</text></g>
+<text x="72" y="228" font-family="DejaVu Sans" font-size="32" font-weight="bold" fill="#4ce2e1">FEATURE SPOTLIGHT / 01</text>
+<text x="68" y="323" font-family="DejaVu Sans" font-size="70" font-weight="bold" fill="white">YOUR RULES.</text>
+<text x="68" y="413" font-family="DejaVu Sans" font-size="70" font-weight="bold" fill="#57e2e0">YOUR SCHEDULE.</text>
+<text x="72" y="476" font-family="DejaVu Sans" font-size="27" fill="#c5d8e2">Set scheduling constraints before generating ice time.</text>
+<g transform="translate(70 545)">
+<rect width="940" height="515" rx="36" fill="#0d2943" stroke="#2a6173" stroke-width="3"/>
+<path d="M38 106H902" stroke="#31647b" stroke-width="2"/>
+<text x="46" y="72" font-family="DejaVu Sans" font-size="26" font-weight="bold" fill="#f0f9fc">THE SCHEDULING WORKFLOW</text>
+<g font-family="DejaVu Sans">
+<circle cx="85" cy="184" r="30" fill="#1bbcc4"/><text x="85" y="194" font-size="27" font-weight="bold" fill="#07273d" text-anchor="middle">1</text><text x="144" y="180" font-size="30" font-weight="bold" fill="white">Add your teams</text><text x="144" y="215" font-size="22" fill="#b4cfda">Build the groups that need ice</text>
+<path d="M85 218V293" stroke="#42a3ad" stroke-width="4" stroke-dasharray="8 9"/>
+<circle cx="85" cy="322" r="30" fill="#1bbcc4"/><text x="85" y="332" font-size="27" font-weight="bold" fill="#07273d" text-anchor="middle">2</text><text x="144" y="318" font-size="30" font-weight="bold" fill="white">Define scheduling rules</text><text x="144" y="353" font-size="22" fill="#b4cfda">Capture constraints and preferences</text>
+<path d="M85 356V427" stroke="#42a3ad" stroke-width="4" stroke-dasharray="8 9"/>
+<circle cx="85" cy="455" r="30" fill="#1bbcc4"/><text x="85" y="465" font-size="27" font-weight="bold" fill="#07273d" text-anchor="middle">3</text><text x="144" y="451" font-size="30" font-weight="bold" fill="white">Generate the schedule</text><text x="144" y="486" font-size="22" fill="#b4cfda">Use the information you've entered</text>
+</g></g>
+<rect x="70" y="1111" width="940" height="116" rx="26" fill="url(#ice)"/><text x="105" y="1160" font-family="DejaVu Sans" font-size="29" font-weight="bold" fill="#06243a">TRY THE FREE SAMPLE-DATA SANDBOX</text><text x="105" y="1201" font-family="DejaVu Sans" font-size="25" fill="#06243a">iceslice.ca</text>
+<text x="70" y="1292" font-family="DejaVu Sans" font-size="19" fill="#a6bdcb">Illustrative workflow graphic — not an application screenshot</text>
+</svg>
